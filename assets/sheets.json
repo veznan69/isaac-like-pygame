@@ -1,0 +1,47 @@
+{
+  "chars": {
+    "file": "chars.png",
+    "cell": [
+      32,
+      32
+    ],
+    "cols": 8,
+    "rows": 2
+  },
+  "bosses": {
+    "file": "bosses.png",
+    "cell": [
+      64,
+      64
+    ],
+    "cols": 2,
+    "rows": 1
+  },
+  "fx": {
+    "file": "fx.png",
+    "cell": [
+      32,
+      32
+    ],
+    "cols": 7,
+    "rows": 1
+  },
+  "props": {
+    "file": "props.png",
+    "cell": [
+      32,
+      32
+    ],
+    "cols": 5,
+    "rows": 1
+  },
+  "items": {
+    "file": "items.png",
+    "cell": [
+      32,
+      32
+    ],
+    "cols": 8,
+    "rows": 3
+  }
+}

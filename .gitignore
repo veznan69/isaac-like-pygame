@@ -1,0 +1,30 @@
+# Python 虚拟环境（务必本地重建，不要上传）
+.venv/
+venv/
+env/
+
+# 字节码与缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# 本地运行数据
+saves/*.json
+saves/*.bak
+*.log
+
+# 截图（保留一张冒烟验收证据）
+screenshots/*
+!screenshots/smoke.png
+
+# 素材后处理临时文件（AI 原图 *.png 本身要保留上传）
+assets/raw/*.tmp
+assets/raw/*.bak
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

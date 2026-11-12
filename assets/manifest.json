@@ -1,0 +1,222 @@
+{
+  "player_idle": {
+    "sheet": "chars",
+    "index": 0,
+    "flip": false
+  },
+  "player_down": {
+    "sheet": "chars",
+    "index": 1,
+    "flip": false
+  },
+  "player_up": {
+    "sheet": "chars",
+    "index": 2,
+    "flip": false
+  },
+  "player_side": {
+    "sheet": "chars",
+    "index": 3,
+    "flip": false
+  },
+  "enemy_fly": {
+    "sheet": "chars",
+    "index": 4,
+    "flip": false
+  },
+  "enemy_chaser": {
+    "sheet": "chars",
+    "index": 5,
+    "flip": false
+  },
+  "enemy_hopper": {
+    "sheet": "chars",
+    "index": 6,
+    "flip": false
+  },
+  "enemy_shooter": {
+    "sheet": "chars",
+    "index": 7,
+    "flip": false
+  },
+  "enemy_splitter": {
+    "sheet": "chars",
+    "index": 8,
+    "flip": false
+  },
+  "enemy_orbiter": {
+    "sheet": "chars",
+    "index": 9,
+    "flip": false
+  },
+  "boss_idle": {
+    "sheet": "bosses",
+    "index": 0,
+    "flip": false
+  },
+  "boss_angry": {
+    "sheet": "bosses",
+    "index": 1,
+    "flip": false
+  },
+  "tear_blue": {
+    "sheet": "fx",
+    "index": 0,
+    "flip": false
+  },
+  "tear_red": {
+    "sheet": "fx",
+    "index": 1,
+    "flip": false
+  },
+  "pickup_heart": {
+    "sheet": "fx",
+    "index": 2,
+    "flip": false
+  },
+  "pickup_coin": {
+    "sheet": "fx",
+    "index": 3,
+    "flip": false
+  },
+  "pickup_key": {
+    "sheet": "fx",
+    "index": 4,
+    "flip": false
+  },
+  "pickup_bomb": {
+    "sheet": "fx",
+    "index": 5,
+    "flip": false
+  },
+  "item_unknown": {
+    "sheet": "fx",
+    "index": 6,
+    "flip": false
+  },
+  "prop_rock": {
+    "sheet": "props",
+    "index": 0,
+    "flip": false
+  },
+  "prop_fire": {
+    "sheet": "props",
+    "index": 1,
+    "flip": false
+  },
+  "prop_pedestal": {
+    "sheet": "props",
+    "index": 2,
+    "flip": false
+  },
+  "decor_tile": {
+    "sheet": "props",
+    "index": 3,
+    "flip": false
+  },
+  "door_ornament": {
+    "sheet": "props",
+    "index": 4,
+    "flip": false
+  },
+  "item_big_tears": {
+    "sheet": "items",
+    "index": 0,
+    "flip": false
+  },
+  "item_blue_map": {
+    "sheet": "items",
+    "index": 1,
+    "flip": false
+  },
+  "item_bomb_bag": {
+    "sheet": "items",
+    "index": 2,
+    "flip": false
+  },
+  "item_brimstone": {
+    "sheet": "items",
+    "index": 3,
+    "flip": false
+  },
+  "item_coin_bag": {
+    "sheet": "items",
+    "index": 4,
+    "flip": false
+  },
+  "item_cupid": {
+    "sheet": "items",
+    "index": 5,
+    "flip": false
+  },
+  "item_ghost_shot": {
+    "sheet": "items",
+    "index": 6,
+    "flip": false
+  },
+  "item_health_up": {
+    "sheet": "items",
+    "index": 7,
+    "flip": false
+  },
+  "item_inner_eye": {
+    "sheet": "items",
+    "index": 8,
+    "flip": false
+  },
+  "item_key_ring": {
+    "sheet": "items",
+    "index": 9,
+    "flip": false
+  },
+  "item_long_range": {
+    "sheet": "items",
+    "index": 10,
+    "flip": false
+  },
+  "item_lucky_foot": {
+    "sheet": "items",
+    "index": 11,
+    "flip": false
+  },
+  "item_magic_mushroom": {
+    "sheet": "items",
+    "index": 12,
+    "flip": false
+  },
+  "item_number_one": {
+    "sheet": "items",
+    "index": 13,
+    "flip": false
+  },
+  "item_pencil": {
+    "sheet": "items",
+    "index": 14,
+    "flip": false
+  },
+  "item_polyphemus": {
+    "sheet": "items",
+    "index": 15,
+    "flip": false
+  },
+  "item_sad_onion": {
+    "sheet": "items",
+    "index": 16,
+    "flip": false
+  },
+  "item_speed_ball": {
+    "sheet": "items",
+    "index": 17,
+    "flip": false
+  },
+  "item_spoon_bender": {
+    "sheet": "items",
+    "index": 18,
+    "flip": false
+  },
+  "item_the_compass": {
+    "sheet": "items",
+    "index": 19,
+    "flip": false
+  }
+}
